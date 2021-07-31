@@ -1,6 +1,7 @@
 <?php
 session_start();
 include "../koneksi.php";
+include "validasi.php";
 ?>
 
 <!doctype html>

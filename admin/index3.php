@@ -190,7 +190,7 @@ include "../koneksi.php";
                 </tbody>
             </table>
             </div>
-                <button class="btn btn-success mt-2" onclick="window.print()"><i class="fa fa-save"></i> Simpan PDF</button>
+                <button class="btn btn-success mt-2" onclick=" window.open('simpan.php','_blank')"><i class="fa fa-save"></i> Simpan PDF</button>
             </div>
         </div>
     </div>
